@@ -1,1 +1,1 @@
-# Revive
+# Revive: The game features AI technology that creates specialized tasks and challenges tailored to individual players’ mental and physical health needs. These tasks can include cognitive exercises, physical challenges, and mental health exercises aimed at reducing stress and anxiety. The game can track the player's progress and provide feedback and suggestions for improvement. The use of AI technology can allow for personalized and targeted interventions, improving the effectiveness of the game's health-related features.
